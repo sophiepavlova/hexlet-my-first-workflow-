@@ -1,2 +1,3 @@
-say-hello:
-    @echo 'Hello, World!'
+# Makefile
+say-hello: 
+	@echo 'Hello, World!'
